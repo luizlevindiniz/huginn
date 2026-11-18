@@ -5,3 +5,4 @@
 require_relative 'config/application'
 
 Huginn::Application.load_tasks
+# ci
