@@ -87,3 +87,4 @@ module Huginn
     ActiveSupport::XmlMini.backend = 'Nokogiri'
   end
 end
+# bot
